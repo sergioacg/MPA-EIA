@@ -1,0 +1,15 @@
+# MATLAB / Simulink
+*.asv
+*.slxc
+slprj/
+*.autosave
+*.mat
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+# Pruebas
+pruebas/libfw.so
+__pycache__/
