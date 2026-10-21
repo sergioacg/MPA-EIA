@@ -41,7 +41,7 @@ MPA-EIA/
 |---|---|
 | Montar y conectar la planta | `manual/Manual_MPA.pdf` (secciones 2 a 4) |
 | Grabar el Arduino | `firmware/MPA_Firmware/MPA_Firmware.ino` |
-| Hablar con la planta desde Simulink | `simulink/MPA_ensayos.slx`, con `parseMPA.m`, `packMPA.m` y `latencia.m` ya pegados en sus bloques |
+| Hablar con la planta desde Simulink | `simulink/MPA_04_ensayos.slx`, con `parseMPA.m`, `packMPA.m` y `latencia.m` ya pegados en sus bloques |
 | Calibrar el sensor | `scripts/calibracion_sensor.m` |
 | Mapa estático | `scripts/programa_escalera.m` y `scripts/analisis_escalera.m` |
 | Modelo en espacio de estados | `scripts/programa_identificacion.m`, `analisis_pulsos.m`, `analisis_escalones_modelo.m` (y `alternativa_tfest.m` si la lámina casi no oscila) |
